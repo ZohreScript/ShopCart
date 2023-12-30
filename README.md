@@ -1,2 +1,2 @@
 # ShopCart
-[Demo](https://zohrescript.github.io/ShopCart/) useReducer with useContext
+[Demo](https://shop-cart-navy.vercel.app/) useReducer with useContext
