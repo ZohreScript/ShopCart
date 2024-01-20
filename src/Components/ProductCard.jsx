@@ -30,7 +30,7 @@ const ProductCard = ({ name, imageUrl, price }) => {
   return (
     <>
       <div
-        className="relative shadow-2xl items-end w-[240px] h-[340px] rounded-2xl overflow-hidden bg-cover bg-center"
+        className="relative shadow-2xl items-end  w-[350px] sm:w-[240px] h-[340px] rounded-2xl overflow-hidden bg-cover bg-center"
         style={{ backgroundImage: `url(${imageUrl})` }}
       >
         <div
